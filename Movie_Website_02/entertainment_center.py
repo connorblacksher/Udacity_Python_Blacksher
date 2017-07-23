@@ -32,5 +32,6 @@ dark_knight = media.Movie("The Dark Knight",
                             "https://www.youtube.com/watch?v=EXeTwQWrcwY")
 
 movies = [toy_story, avatar, oceans_11, helvetica, hot_fuzz, dark_knight]
-
-fresh_tomatoes.open_movies_page(movies)
+#fresh_tomatoes.open_movies_page(movies)
+#print(media.Movie.VALID_RATINGS)
+print(media.Movie.__doc__)
