@@ -4,7 +4,7 @@ This project displays a webpage listing off some of my favorite movies with link
 
 ## To Download
 
-You can download this repo directly to you machine <a href "https://github.com/connorblacksher/Udacity_Python_Blacksher/tree/master/Movie_Website_F" Here>
+You can download this repo directly to you machine [Here](https://github.com/connorblacksher/Udacity_Python_Blacksher/tree/master/Movie_Website_F)
 
 ## To Run
 
